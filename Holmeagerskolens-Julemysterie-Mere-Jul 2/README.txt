@@ -1,0 +1,1 @@
+Åbn test-alle-gaader.html for at afprøve alle gåder. Åbn index.html for rigtige datoer. admin.html er administratorpanelet. Behold winter-decor.svg i samme mappe. Data gemmes kun i browserens lokale lager, ikke på tværs af enheder.
